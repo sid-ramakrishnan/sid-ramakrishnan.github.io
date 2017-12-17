@@ -44,6 +44,5 @@ Here are some of the projects I have contributed to. I have worked on the full s
 
 ### Contact Information
 #### [Resume]()
-
 #### [LinkedIn](https://www.linkedin.com/in/siddharth-ramakrishnan/)
 
